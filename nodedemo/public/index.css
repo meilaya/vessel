@@ -1,0 +1,162 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre, 
+form,fieldset,input,textarea,p,blockquote,th,td { 
+padding: 0; 
+margin: 0; 
+} 
+table { 
+border-collapse: collapse; 
+border-spacing: 0; 
+} 
+fieldset,img { 
+border: 0; 
+} 
+address,caption,cite,code,dfn,em,strong,th,var { 
+font-weight: normal; 
+font-style: normal; 
+} 
+ol,ul { 
+list-style: none; 
+} 
+caption,th { 
+text-align: left; 
+} 
+h1,h2,h3,h4,h5,h6 { 
+font-weight: normal; 
+font-size: 100%; 
+} 
+q:before,q:after { 
+content:”; 
+} 
+abbr,acronym { border: 0; 
+}/*样式重置*/
+*{
+	padding:0px;
+	margin:0px;
+}
+  body {
+	 
+	  background-size:1500px 700px;
+	  background-repeat:no-repeat;
+	  background-color:#022346;
+	  font-family:KaiTi;
+	  letter-spacing:0px;
+	
+	
+	  background-attachment:fixed;
+	 }
+       .top{
+		   margin-top:57px;
+		   margin-bottom:80px;
+		   margin-left:119px;  
+		   font-weight:bolder;
+		   color:#ffffff;
+		   font-size:50px;
+		   width:400px;
+		   min-height:65px;
+	   }
+	  
+		    
+   .nav{
+		 width:250px;
+		 height:85px;
+		 padding-top:60px;
+		 font-size:45px;
+		 font-weight:bolder;
+		 text-align:center;
+		 background-color:#0066ff;
+		 }	 
+      
+.marjor1 {
+	     margin-left:120px;
+		 margin-right:20px;
+		 background-color:#ffffff;
+	     width:250px;
+		 min-height:300px;
+		 float:left;
+		 opacity:0.5;
+		 border-radius:12px;
+		
+        }
+.marjor2 {
+	      margin-top:80px;
+	      margin-left:390px;
+	      width:750px;
+		  min-height:900px;
+		 /* float:left;*/
+		  background-color:#C2F7FB;
+		  border-radius:12px;
+		  border-color:#ffffff;
+		}
+ 
+/*左边导航条*/
+ul{
+   list-style-type:none;
+  }
+  a:link,a:visited
+  {
+   width:250px;
+   height:55px;  
+   display:block;
+   font-size:20px;
+   font-weight:bold;
+   color:#ffffff;
+   background-color:#0085D0;
+  
+   text-align:center;
+   padding-top:30px;
+   text-decoration:none;
+  }
+   a:hover,a:active
+  {
+   background-color:#0066ff;
+   }
+   a{ 
+   display:inline;
+   }
+   .head{
+	   padding-top:20px;
+	   padding-left:300px;
+	   font-size:20px;
+	   font-weight:bolder;  
+   }
+   .container{
+	         padding-left:20px;
+			 padding-right:20px;
+	         padding-top:20px;
+	         
+   }
+   .content1{
+	         float:left;
+   }
+   .content2{
+	         /*text-align:right;*/
+			 text-align:left;
+	         width:400px;
+			
+			 float:right;
+   }
+   .include{
+	        padding-right:20px;
+			 padding-left:20px;
+	         padding-top:20px;
+	         
+	    }
+   .content3{
+	          padding-top:23px;
+	         
+			  float:right;
+   }
+   .content4{
+	        padding-top:20px;
+	         width:375px;
+			 float:left;
+			/* text-align:right;*/
+			 text-align:left;
+   }
+
+
+			
+	
+   
+   
+	         
