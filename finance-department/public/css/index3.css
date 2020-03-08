@@ -1,0 +1,260 @@
+
+.pc-logo{
+	 background-color: #044160;
+}
+.form-control{
+	padding: 0px;
+}
+.pc-distance{
+	  margin-top: 25px;
+	  padding-left: 80px;
+	  
+}
+.pc-text{
+     margin-left: 15px;
+
+}
+.header{
+	width: 85%;
+	height: 55%;
+	padding-left: 20px;
+}
+.carousel-inner>.item>a>img,.carousel-inner>.item>img, .thumbnail a>img, .thumbnail>img{
+	height:355px;
+	
+}
+.pcad-img{
+	width: 100%;
+	height:150px;
+
+}
+
+.foot{
+	width: 55%;
+	height: 55%;
+
+}
+.header-contain{
+	padding-left: 20px;
+}
+.pc-title{
+	font-size: 15px;
+	background-color: #272822;
+	margin: 0 auto;
+    width: 400px;
+    opacity: 0.8;
+    height: 10px;
+    line-height: 10px;
+    margin-bottom: 30px;
+}
+.pcnew-date{
+	background-color:  #8F000B;
+	text-align: center;
+	width: 80px;
+	height: 75px;
+	
+}
+.pcnew-day{
+	color: #ffffff;
+	font-size:22px;
+	font-weight: bold;
+    line-height: 38px;
+}
+.pcnew-month{
+	color: #ffffff;
+	
+}
+.new-headline{
+	 font-size:16px;
+
+	
+}
+.pcnew-detail{
+	font-size: 12px;
+}
+.footer-text{
+	margin-top: 15px;
+	padding-left: 60px;
+}
+.footer-logo{
+	text-align: right;
+	vertical-align: middle;
+	padding-top: 7px;
+}
+.img-responsive{
+	display: inline;
+}
+.footer{
+	height: 100px;
+}
+/*网页enroll的样式*/
+
+
+/*网页notice的样式*/
+
+.link-distance{
+	text-align: center;
+	padding-top: 12px;
+    padding-bottom: 10px;
+}
+.link-distance1{
+	
+	padding-top: 12px;
+   
+}
+.pc-dist{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+#h5-style{
+	text-align: center;
+	color: #B39999;
+}
+.text{
+	color: red;
+	font-weight: bolder;
+}
+.pc-height{
+	font-family: kaiti;
+	line-height: 40px;
+	font-size: 16px;
+}
+/*搜索结果页面*/
+.search-header{
+
+	margin-top: 5px;
+}
+.right-size{
+	border: 1px solid #ffffff;
+
+}
+.row{
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.carousel-indicators li{
+	width: 9px;
+	height: 9px;
+	
+}
+.carousel-indicators .active{
+	width: 10px;
+	height: 10px;
+}
+.ipad-img{
+	width: 1200px;
+}
+.col-md-4{
+	margin-left: 0px;
+}
+.helper-img{
+	width: 150px;
+	height: 150px;
+
+}
+.foot-icon{
+	padding-left:28px;
+	padding-right: 28px;
+	margin-bottom: 80px;
+}
+.col-md-2{
+	margin-left: 60px;
+}
+.helper-title{
+	width: 150px;
+	background-color: #8F000B;
+	color: #ffffff;
+	text-align: center;
+	opacity: 0.7;
+	position: absolute;
+	top: 130px;
+}
+.col-md-2{
+	margin-left: 20px;
+}
+.index-list{
+	margin-top: 5px;
+}
+.index-list2{
+	margin-top: 30px;
+}
+.detail-title{
+	width: 250px;
+	height: 50px;
+	opacity: 0.8;
+	background-color:  #8F000B;
+	color: #ffffff;
+	text-align: center;
+	line-height: 50px;
+	position: absolute;
+	top: 260px;
+	font-size: 18px;
+}
+.detail-img{
+	width: 100%;
+	height:300px;
+}
+
+.detail-foot{
+	text-align: right;
+}
+.detail-new-img{
+	margin-left: 12px;
+	margin-bottom: 10px;
+}
+.detail-new-title{
+	font-size: 18px;
+	color: #D9534F;
+	text-align: center;
+	padding-top: 25px;
+}
+.container-list{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.pc-carimg{
+	width: 2000px;
+	height:20px;
+}
+.dropdown-menu{
+	width: 100%;
+	text-align: center;
+}
+.assitant{
+	margin-top: 11px;
+}
+
+.assit-icon{
+	color: #ffffff;
+	padding-left: 20px;
+	font-size: 26px;
+	padding-top: 19px;
+
+}
+.assit-text{
+	color: #ffffff;
+	padding-left: 20px;
+	font-size: 23px;
+	padding-top: 19px;
+}
+.nav-list{
+	margin-top: 33px;
+	font-size: 17px;
+}
+
+.detail-center{
+	font-size: 17px;
+	margin-top: 35px;
+}
+.word{
+	font-size: 16px;
+}
+.footer-text{
+
+    background-color: #8F000B;
+	color: #ffffff;
+	font-size: 12px;
+	width: 50%;
+
+
+}
